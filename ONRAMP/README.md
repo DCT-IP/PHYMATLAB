@@ -6,6 +6,7 @@ This follows the format of ONRAMP but will not have every question
  - [x]vectors and matrixes
  - [x]Array Indexing and calc
  - [x]function calls and documentation
- - [ ]plots
+ - [x]plots
  - [ ]Data import
  - [ ]logical arrays 
+ - [ ]Programming 
