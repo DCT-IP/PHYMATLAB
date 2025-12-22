@@ -9,4 +9,4 @@ This follows the format of ONRAMP but will not have every question
  - [x]plots
  - [x]logical arrays 
  - [x]Programming 
- - [ ]Final Proj
+ - [curr]Final Proj
